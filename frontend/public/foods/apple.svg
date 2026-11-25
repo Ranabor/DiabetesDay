@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="16" fill="#fef2f2"/>
+  <!-- Stem -->
+  <path d="M50,28 Q54,18 60,16" stroke="#78350f" stroke-width="3" fill="none" stroke-linecap="round"/>
+  <!-- Leaf -->
+  <path d="M54,20 Q64,16 66,24 Q58,26 54,20 Z" fill="#16a34a"/>
+  <!-- Apple Body -->
+  <path d="M50,34 C36,24 22,34 24,56 C26,74 44,80 50,78 C56,80 74,74 76,56 C78,34 64,24 50,34 Z" fill="#dc2626"/>
+  <!-- Highlight -->
+  <path d="M34,42 Q30,50 32,60" stroke="#fca5a5" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Peanut Butter Dip -->
+  <ellipse cx="68" cy="68" rx="14" ry="8" fill="#d97706"/>
+  <ellipse cx="68" cy="67" rx="12" ry="6" fill="#f59e0b"/>
+</svg>

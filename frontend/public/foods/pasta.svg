@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="16" fill="#fef2f2"/>
+  <!-- Plate -->
+  <ellipse cx="50" cy="58" rx="36" ry="18" fill="#e2e8f0"/>
+  <!-- Spaghetti Mound -->
+  <ellipse cx="50" cy="54" rx="26" ry="15" fill="#fef08a"/>
+  <!-- Swirl lines -->
+  <path d="M34,54 Q44,46 56,54 Q64,60 50,62 Q40,62 38,54" stroke="#facc15" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <!-- Bolognese Sauce -->
+  <path d="M40,48 Q50,42 60,46 Q64,52 58,56 Q48,60 42,54 Z" fill="#b91c1c"/>
+  <!-- Herb leaf -->
+  <ellipse cx="50" cy="45" rx="3.5" ry="2" fill="#16a34a"/>
+</svg>

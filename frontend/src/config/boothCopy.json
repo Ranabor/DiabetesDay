@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "Type 1 Diabetes Simulator",
+    "subtitle": "UVA/Padova Physiological Model • Live Demonstration",
+    "badge": "Diabetes Awareness Day 2026",
+    "boothPrompt": "Observe how carbohydrates and insulin dynamics affect interstitial glucose in real time."
+  },
+  "views": {
+    "simulate": "Simulate",
+    "mealAnalysis": "Meal Analysis",
+    "compare": "Compare Controllers",
+    "compareDiets": "Compare Diets",
+    "comparePatients": "Compare Patients",
+    "parameters": "Parameters Sandbox"
+  },
+  "metrics": {
+    "tir": {
+      "title": "Time in Range",
+      "subtitle": "70 – 180 mg/dL",
+      "target": "> 70% Target",
+      "description": "Standard clinical target for reducing long-term microvascular complications."
+    },
+    "tar": {
+      "title": "Time Above Range",
+      "subtitle": "> 180 mg/dL",
+      "target": "< 25% Target",
+      "description": "Acute hyperglycemia (L1: 180-250 mg/dL, L2: > 250 mg/dL). High risk of DKA if untreated."
+    },
+    "tbr": {
+      "title": "Time Below Range",
+      "subtitle": "< 70 mg/dL",
+      "target": "< 4% Target",
+      "description": "Acute hypoglycemia (L1: 54-70 mg/dL, L2: < 54 mg/dL). Immediate safety risk."
+    },
+    "riskIndex": {
+      "title": "Risk Index",
+      "subtitle": "Composite Metabolic Risk",
+      "target": "LBGI + HBGI",
+      "description": "Kovatchev UVA/Padova composite metric quantifying glucose variability and instability."
+    },
+    "lbgi": {
+      "title": "LBGI",
+      "subtitle": "Low Blood Glucose Index",
+      "target": "< 2.5 Minimal Risk",
+      "description": "Quantifies the frequency and extent of hypoglycemia."
+    },
+    "hbgi": {
+      "title": "HBGI",
+      "subtitle": "High Blood Glucose Index",
+      "target": "< 4.5 Low Risk",
+      "description": "Quantifies the magnitude and exposure to hyperglycemia."
+    }
+  },
+  "chart": {
+    "glucoseLabel": "Glucose (mg/dL)",
+    "insulinLabel": "Insulin (U/min)",
+    "timeLabel": "Time of Day",
+    "targetBandLabel": "Target Band (70 - 180 mg/dL)",
+    "playbackHint": "Use playback controls to animate the daily trajectory for audience presentation."
+  }
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="16" fill="#fef2f2"/>
+  <!-- Bottom Bread -->
+  <path d="M22,62 L78,62 L72,70 L28,70 Z" fill="#b45309"/>
+  <!-- Turkey & Cheese -->
+  <rect x="24" y="55" width="52" height="6" rx="2" fill="#e2e8f0"/>
+  <polygon points="26,55 74,55 70,59 28,59" fill="#f59e0b"/>
+  <!-- Lettuce -->
+  <path d="M22,53 Q32,56 42,52 Q52,55 62,52 Q72,55 78,53 L76,50 L24,50 Z" fill="#22c55e"/>
+  <!-- Top Bread -->
+  <path d="M24,48 L76,48 Q76,32 50,32 Q24,32 24,48 Z" fill="#d97706"/>
+  <!-- Bread Crust highlights -->
+  <circle cx="40" cy="38" r="1.5" fill="#fef08a"/>
+  <circle cx="56" cy="39" r="1.5" fill="#fef08a"/>
+  <circle cx="48" cy="44" r="1.5" fill="#fef08a"/>
+</svg>

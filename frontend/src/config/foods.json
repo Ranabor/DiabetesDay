@@ -1,0 +1,98 @@
+[
+  {
+    "id": "oatmeal_berries",
+    "name": "Oatmeal with Blueberries",
+    "carbs_g": 34,
+    "serving_label": "1 bowl (45g oats, 1/2 cup berries)",
+    "category": "Breakfast",
+    "image": "/foods/oatmeal.svg"
+  },
+  {
+    "id": "bagel_cream_cheese",
+    "name": "Plain Bagel & Cream Cheese",
+    "carbs_g": 56,
+    "serving_label": "1 regular bagel (100g) with spread",
+    "category": "Breakfast",
+    "image": "/foods/bagel.svg"
+  },
+  {
+    "id": "eggs_avocado",
+    "name": "Scrambled Eggs & Avocado",
+    "carbs_g": 4,
+    "serving_label": "2 eggs + 1/2 avocado",
+    "category": "Breakfast",
+    "image": "/foods/eggs.svg"
+  },
+  {
+    "id": "turkey_sandwich",
+    "name": "Turkey & Cheddar Sandwich",
+    "carbs_g": 38,
+    "serving_label": "2 slices whole wheat + fillings",
+    "category": "Lunch",
+    "image": "/foods/sandwich.svg"
+  },
+  {
+    "id": "chicken_salad",
+    "name": "Grilled Chicken Caesar Salad",
+    "carbs_g": 12,
+    "serving_label": "Large bowl with dressing and croutons",
+    "category": "Lunch",
+    "image": "/foods/salad.svg"
+  },
+  {
+    "id": "pepperoni_pizza",
+    "name": "Pepperoni Pizza (2 Slices)",
+    "carbs_g": 66,
+    "serving_label": "2 medium thick-crust slices",
+    "category": "Dinner",
+    "image": "/foods/pizza.svg"
+  },
+  {
+    "id": "pasta_bolognese",
+    "name": "Spaghetti Bolognese",
+    "carbs_g": 72,
+    "serving_label": "1 cup cooked pasta + meat sauce",
+    "category": "Dinner",
+    "image": "/foods/pasta.svg"
+  },
+  {
+    "id": "cheeseburger_fries",
+    "name": "Cheeseburger & French Fries",
+    "carbs_g": 82,
+    "serving_label": "1 burger with bun + medium fries",
+    "category": "Dinner",
+    "image": "/foods/burger.svg"
+  },
+  {
+    "id": "salmon_broccoli",
+    "name": "Grilled Salmon & Steamed Broccoli",
+    "carbs_g": 6,
+    "serving_label": "6 oz filet + 1 cup florets",
+    "category": "Dinner",
+    "image": "/foods/salmon.svg"
+  },
+  {
+    "id": "apple_peanut_butter",
+    "name": "Apple Slices & Peanut Butter",
+    "carbs_g": 24,
+    "serving_label": "1 medium apple + 2 tbsp spread",
+    "category": "Snack",
+    "image": "/foods/apple.svg"
+  },
+  {
+    "id": "greek_yogurt_honey",
+    "name": "Greek Yogurt with Honey",
+    "carbs_g": 22,
+    "serving_label": "3/4 cup yogurt + 1 tbsp honey",
+    "category": "Snack",
+    "image": "/foods/yogurt.svg"
+  },
+  {
+    "id": "chocolate_cookies",
+    "name": "Chocolate Chip Cookies (2)",
+    "carbs_g": 36,
+    "serving_label": "2 bakery-style cookies",
+    "category": "Snack",
+    "image": "/foods/cookie.svg"
+  }
+]

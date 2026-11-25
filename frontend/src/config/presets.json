@@ -1,0 +1,63 @@
+[
+  {
+    "id": "balanced_day",
+    "name": "Balanced Day (3 Regular Meals)",
+    "description": "Standard adult schedule with consistent moderate-carb meals throughout the day.",
+    "cohort": "Adult",
+    "subject_index": 0,
+    "meals": [
+      { "label": "Breakfast", "time_minutes": 420, "carbs_g": 45 },
+      { "label": "Lunch", "time_minutes": 720, "carbs_g": 60 },
+      { "label": "Dinner", "time_minutes": 1080, "carbs_g": 75 }
+    ]
+  },
+  {
+    "id": "pizza_night",
+    "name": "High-Carb Pizza Night",
+    "description": "Modest breakfast and lunch followed by a massive 125g high-fat, high-carb dinner.",
+    "cohort": "Adult",
+    "subject_index": 0,
+    "meals": [
+      { "label": "Breakfast", "time_minutes": 450, "carbs_g": 35 },
+      { "label": "Lunch", "time_minutes": 750, "carbs_g": 50 },
+      { "label": "Pizza Dinner", "time_minutes": 1140, "carbs_g": 125 }
+    ]
+  },
+  {
+    "id": "skipped_breakfast",
+    "name": "Skipped Breakfast (Late Fast)",
+    "description": "Morning fasting window until 12:30 PM, followed by afternoon snack and evening dinner.",
+    "cohort": "Adult",
+    "subject_index": 1,
+    "meals": [
+      { "label": "Late Lunch", "time_minutes": 750, "carbs_g": 70 },
+      { "label": "Afternoon Snack", "time_minutes": 960, "carbs_g": 30 },
+      { "label": "Dinner", "time_minutes": 1170, "carbs_g": 80 }
+    ]
+  },
+  {
+    "id": "pediatric_active",
+    "name": "Child Active School Day",
+    "description": "Frequent small meals and snacks tailored for a pediatric subject's metabolism.",
+    "cohort": "Child",
+    "subject_index": 0,
+    "meals": [
+      { "label": "Breakfast", "time_minutes": 420, "carbs_g": 35 },
+      { "label": "Recess Snack", "time_minutes": 600, "carbs_g": 20 },
+      { "label": "School Lunch", "time_minutes": 750, "carbs_g": 45 },
+      { "label": "Dinner", "time_minutes": 1080, "carbs_g": 50 }
+    ]
+  },
+  {
+    "id": "low_carb",
+    "name": "Low-Carb Regimen",
+    "description": "Minimal carbohydrate intake designed to observe basal stability.",
+    "cohort": "Adolescent",
+    "subject_index": 0,
+    "meals": [
+      { "label": "Breakfast", "time_minutes": 480, "carbs_g": 10 },
+      { "label": "Lunch", "time_minutes": 780, "carbs_g": 15 },
+      { "label": "Dinner", "time_minutes": 1140, "carbs_g": 20 }
+    ]
+  }
+]

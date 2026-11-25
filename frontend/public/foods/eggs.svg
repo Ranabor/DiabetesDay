@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" rx="16" fill="#f0fdf4"/>
+  <!-- Avocado slice -->
+  <ellipse cx="38" cy="52" rx="22" ry="15" transform="rotate(-25 38 52)" fill="#15803d"/>
+  <ellipse cx="38" cy="52" rx="18" ry="12" transform="rotate(-25 38 52)" fill="#86efac"/>
+  <circle cx="36" cy="52" r="6" fill="#78350f"/>
+  <!-- Scrambled eggs -->
+  <path d="M52,44 Q62,38 72,46 Q80,54 70,64 Q60,68 50,60 Q46,50 52,44 Z" fill="#fbbf24"/>
+  <circle cx="60" cy="48" r="3" fill="#f59e0b"/>
+  <circle cx="66" cy="56" r="3.5" fill="#f59e0b"/>
+  <!-- Pepper flakes -->
+  <circle cx="62" cy="52" r="1" fill="#334155"/>
+  <circle cx="56" cy="58" r="1" fill="#334155"/>
+  <circle cx="44" cy="46" r="1" fill="#334155"/>
+</svg>
